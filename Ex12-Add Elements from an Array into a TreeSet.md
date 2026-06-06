@@ -12,7 +12,7 @@ To write a Java program that adds elements from an array into a TreeSet and disp
 
 ## Program:
 ```
-/*
+
 Program that adds elements from an array into a TreeSet and displays the elements in sorted order.
 Developed by: M.Suryakumar
 RegisterNumber: 212224040340
@@ -30,7 +30,7 @@ public class ArrayToTreeSet {
     }
 }
  
-*/
+
 ```
 
 ## Output:
