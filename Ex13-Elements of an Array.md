@@ -15,7 +15,7 @@ To write a Java program that fills the first 10 elements of an array with a cons
 Program to FILL the first 10 elements of an array with a constant value using the Arrays.fill() method.
 Developed by: M.Suryakumar
 RegisterNumber: 212224040340
-*/
+
 import java.util.Arrays;
 
 public class FillArray {
@@ -25,7 +25,7 @@ public class FillArray {
         System.out.println("Array after filling: " + Arrays.toString(arr));
     }
 }
-*/
+
 ```
 
 ## Output:
